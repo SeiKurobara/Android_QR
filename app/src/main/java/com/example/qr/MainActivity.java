@@ -13,7 +13,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(this, "Kangkong", Toast.LENGTH_SHORT).show();
-
-
     }
 }
